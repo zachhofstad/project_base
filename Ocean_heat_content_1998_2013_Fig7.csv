@@ -1,0 +1,79 @@
+Analysis_domain,Reference,Analysis_interval,Avg_interval_biweekly,Heat_1988-2013_avg,Heat_1988-2013_std,Heat_1988-2013_trnd,Heat_1988-2013_trnd_sig,Heat_1982-1990_avg,Heat_1991-2000_avg,Heat_2001-2013_avg,Reference_file
+Arctic Ocean-Coastal,Figure 7a,1988-2013,11-Jan,418.86,1.4711,71.436,99,369.47,399.29,445.3,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,25-Jan,396.71,2.2173,66.018,99,352.82,377.95,421.27,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,08-Feb,380.12,1.892,59.012,95,345.47,361.07,402.76,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,22-Feb,366.92,3.7255,51.159,95,337.55,349.33,387.23,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,08-Mar,358.25,6.2549,45.391,90,329.41,342.87,376.75,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,22-Mar,353.16,6.396,39.381,90,325.75,340.56,369.18,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,05-Apr,353.07,6.191,36.47,0,326.06,341.55,368.16,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,19-Apr,360.93,6.5464,38.932,0,334.12,347.5,377.46,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,03-May,380.65,6.7103,42.739,0,352.22,364.49,399.64,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,17-May,414.69,6.88,50.049,90,383.72,395.51,436.58,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,31-May,469.77,5.9132,64.831,95,435.67,445.39,496.4,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,14-Jun,546.63,4.2306,84.893,95,508.19,516.03,579.05,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,28-Jun,646.54,2.149,109.69,99,605.98,607.95,685.59,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,12-Jul,761.63,0.3335,133.12,99,718.31,715.89,806.82,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,26-Jul,877.14,3.9921,161.2,99,828.07,823.86,929.45,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,09-Aug,973.74,6.4544,184.01,99,920.8,913.04,1032.6,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,23-Aug,1036,6.8076,200.15,99,980.06,969.85,1099.9,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,06-Sep,1052.8,6.4142,205.64,99,995.85,985.2,1118,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,20-Sep,1023.3,6.4279,211.17,99,962.82,956.02,1089,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,04-Oct,950.43,5.8396,204.49,99,891.18,885.8,1013.8,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,18-Oct,852.1,3.6392,191.97,99,794.05,790.48,912.91,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,01-Nov,746.29,0.5806,156.17,99,693.8,696.6,796.62,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,15-Nov,645.36,4.3389,120.8,99,594.42,610.39,684.02,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,29-Nov,558.53,7.2238,99.39,99,507.53,531.12,591.38,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,13-Dec,493.65,7.7441,79.347,99,450.82,471.13,520.86,Fig7a_Arctic.txt
+Arctic Ocean-Coastal,Figure 7a,1988-2013,27-Dec,469.55,1.0729,80.44,99,433.23,449.09,495.68,Fig7a_Arctic.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,11-Jan,460.12,6.1009,61.535,90,407.7,443.17,485.25,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,25-Jan,439.15,6.2587,61.303,90,392.5,421.2,463.71,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,08-Feb,422.92,6.1174,57.778,90,384.41,403.37,446.84,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,22-Feb,410.14,7.9232,52.94,90,374.74,391.52,432.63,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,08-Mar,401.23,10.786,44.858,0,363.7,386.34,421.35,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,22-Mar,396.34,10.21,39.021,0,359.18,384.48,414.04,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,05-Apr,396.84,9.713,36.909,0,359.18,386.51,413.48,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,19-Apr,404.61,10.469,41.045,0,362.28,393.43,422.99,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,03-May,424.5,11.532,47.189,0,375.97,411.19,445.93,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,17-May,458.58,12.383,57.357,0,402.89,442.88,483.51,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,31-May,513.76,12.135,75.508,90,449.84,493.11,544.39,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,14-Jun,592.1,11.356,102.35,95,517.34,565.13,630.1,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,28-Jun,696.17,11.507,130.33,99,613.26,662.49,741.22,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,12-Jul,819.27,9.5888,157.64,99,728.33,779.84,870.59,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,26-Jul,945.26,5.7509,186.12,99,847.3,899.27,1003.2,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,09-Aug,1053.5,3.3327,213.8,99,951.58,999.07,1119,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,23-Aug,1125.3,4.7084,225.33,99,1027.7,1065.4,1193.8,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,06-Sep,1145.7,6.8785,221.22,99,1053.3,1084.9,1213.9,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,20-Sep,1114.5,5.1113,214.58,99,1024.4,1056.6,1179.7,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,04-Oct,1037.7,2.3639,201.98,99,952.34,982.98,1099.5,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,18-Oct,936.79,0.546,187.65,99,855.51,883.18,996.78,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,01-Nov,822.59,5.3683,150.15,99,748.14,782.21,870.84,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,15-Nov,706.19,10.401,113.01,95,640.25,678.12,743,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,29-Nov,604.17,14.963,84.935,90,545.28,583.44,633.7,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,13-Dec,529.96,15.315,59.716,0,477.75,516.3,552.52,Fig7b_NAmerica.txt
+North America Ocean-Coastal,Figure 7b,1988-2013,27-Dec,499.06,5.51,69.256,90,452.11,485.08,522.45,Fig7b_NAmerica.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,11-Jan,367.91,4.2451,83.66,99,322.27,345.12,395.99,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,25-Jan,344.32,2.7723,71.839,95,303.82,324.55,368.87,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,08-Feb,327.27,3.3248,60.534,95,297.4,308.84,348.34,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,22-Feb,313.57,1.4572,48.96,95,291.64,297.25,331.18,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,08-Mar,305.19,0.6603,46.049,95,287.06,289.19,321.68,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,22-Mar,299.85,1.6867,39.826,90,284.47,286.33,313.8,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,05-Apr,299.03,1.8425,35.928,0,285.16,286.05,312.21,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,19-Apr,307,1.703,36.325,0,299.36,290.78,321.25,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,03-May,326.51,0.7569,37.246,0,322.89,306.82,342.49,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,17-May,360.49,0.086,41.025,0,360.06,337.03,378.64,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,31-May,415.47,1.7683,51.649,0,418.16,386.48,437.15,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,14-Jun,490.5,4.5672,63.335,0,496.89,455.4,516.02,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,28-Jun,585.27,9.4041,84.204,90,597,540.6,616.92,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,12-Jul,690.47,11.094,102.84,95,705.95,636.94,728.08,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,26-Jul,793.03,16.021,130.44,95,804.32,730.76,838.34,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,09-Aug,875.22,18.538,147.23,95,882.79,806.83,926.07,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,23-Aug,925.89,21.026,169.07,99,921.18,851.91,983.89,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,06-Sep,938.13,22.826,186.39,99,924.96,862.13,999.63,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,20-Sep,910.69,20.674,206.96,99,886.73,831.8,976.91,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,04-Oct,842.69,15.968,207.58,99,815.68,765.81,908.06,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,18-Oct,747.55,8.8064,197.3,99,718.17,676.02,809.35,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,01-Nov,652.09,5.3305,163.59,99,626.71,590.91,705,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,15-Nov,570.26,3.1461,130.42,99,537.84,526.76,611.21,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,29-Nov,502.18,2.331,117.24,99,460.93,466.53,539.12,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,13-Dec,448.82,1.6026,103.58,99,417.57,415.36,481.77,Fig7c_Eurasia.txt
+Eurasia Ocean-Coastal,Figure 7c,1988-2013,27-Dec,433.11,4.4052,94.249,95,409.9,404.65,462.63,Fig7c_Eurasia.txt
